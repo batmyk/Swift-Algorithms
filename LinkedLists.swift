@@ -5,9 +5,6 @@
 //  Created by Mayank on 10/08/22.
 //
 
-Linked List
-
-
 
 // Let's Implement a Linked List (Insert, Delete, "Special Insert")
 
